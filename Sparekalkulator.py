@@ -1,5 +1,5 @@
-#Programmet er deisgnet slik at man ønsker å vite hvor lang tid det tar
-#å spare seg til et visst beløp gitt månedtlige beløp og årlig avkastning
+#Programmet er designet slik at man ønsker å vite hvor lang tid det tar
+#å spare seg til et visst beløp gitt månedlige beløp og årlig avkastning
 
 
 import matplotlib.pyplot as plt
