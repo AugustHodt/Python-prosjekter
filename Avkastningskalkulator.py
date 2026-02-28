@@ -1,7 +1,7 @@
-#Laget en kalkulator som regner ut hvor mye man sitter igjen med når man har et startbeløp og årlig avkastnig
-#Brukeren legger inn startbeløp og årlig avkasnting
-#Programmet vil også regne ut hvis avkasntningen blir 3, 5 eller 10% dårligere
-#Programmet sksl vise viktigheten av å få de store prosentene
+#Kalkulator som regner ut hvor mye man sitter igjen med når man har et startbeløp og en årlig avkastning som compounder over tid.
+#Brukeren legger inn startbeløp og årlig avkastning.
+#Programmet vil også regne ut hvis avkastningen blir 3, 5 eller 10 prosent dårligere.
+#Programmet skal vise viktigheten av å få de store prosentene.
 
 
 import matplotlib.pyplot as plt
