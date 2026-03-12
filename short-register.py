@@ -4,8 +4,9 @@ Henter daglig shortregister fra Finanstilsynet i Norge og Sverige og sender det 
 
 E-posten inneholder:
   1. Alle selskaper i registeret (med endringer fra i går)
-  2. Dine spesifikke selskaper
+  2. Dine spesifikke Norske selskaper
   3. Topp 10 mest shortede aksjer
+  4. Dine spesifikke Svenske selskaper
 """
 
 import requests
